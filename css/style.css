@@ -113,3 +113,20 @@ p {
     border-radius: 10px;
     box-shadow: 0 8px 16px rgba(0, 195, 255, 0.747);
 }
+
+.conteiner_simple {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.img_meme {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 195, 255, 0.747);
+}
+.conteiner_meme {
+    margin: 40px;
+    text-align: center;
+}
